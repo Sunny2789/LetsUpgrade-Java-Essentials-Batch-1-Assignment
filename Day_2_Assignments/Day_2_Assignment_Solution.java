@@ -24,6 +24,7 @@ public class Day_2_Assignment_Solution {
         emp1.name = "Jayesh Patel";
         emp1.age = 30;
         emp1.city = "Gujarat";
+        
         // Setting variables for emp2 object
         emp2.name = "Rakesh Patil";
         emp2.age = 45;
